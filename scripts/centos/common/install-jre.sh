@@ -1,3 +1,3 @@
 #!/bin/bash
 
-yum -y install unzip
+yum -y install wget
